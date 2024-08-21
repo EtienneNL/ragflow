@@ -22,7 +22,7 @@ redis:
   password: 'infini_rag_flow'
   host: 'redis:6379'
 user_default_llm:
-  factory: 'Tongyi-Qianwen'
+  factory: 'gpt-4o-mini'
   api_key: 'sk-xxxxxxxxxxxxx'
   base_url: ''
 oauth:
